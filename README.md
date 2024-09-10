@@ -2,6 +2,7 @@
 - Sou _estudante_ da escola 9 de Julho.
 - Tenho 15 anos.
 - Estou no primeiro ano do Ensino Médio.
+- **Tecnologia e Robótica**
 
 
 
